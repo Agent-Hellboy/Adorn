@@ -1,0 +1,9 @@
+[Plugin]
+Loader=python3
+Module=adorn
+IAge=3
+Name=Adorn
+Description=A Plugin which refactors your code in black coading style of python.
+Authors= Prince Roshan <princekrroshan01@gmail.com>
+Copyright=Copyright © 2020 Prince Roshan <princekrroshan01@gmail.com>
+
