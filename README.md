@@ -4,6 +4,9 @@
 ### Requirements
 * [Gedit](https://wiki.gnome.org/Apps/Gedit)
 
+### Demo
+
+![Adorn Demo](Adorn.gif)
 
 ### Install
 * Install with script
