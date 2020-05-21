@@ -4,6 +4,9 @@
 ### Requirements
 * [Gedit](https://wiki.gnome.org/Apps/Gedit)
 
+### General Info
+Tested for root user only so A permission error may arise if used by another user.
+For now run gedit with sudo only ``sudo gedit filename``
 
 ### Install
 * Install with script
