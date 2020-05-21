@@ -1,8 +1,8 @@
 #!/bin/sh
 
 echo "Updating System"
-# sudo apt-get update
-# sudo apt-get upgrade
+sudo apt-get update
+sudo apt-get upgrade
 
 echo "Install Dependencies"
 sudo apt-get install python3-all-dev
