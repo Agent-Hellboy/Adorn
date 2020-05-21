@@ -1,4 +1,4 @@
-# Adorn : A Gedit Plugin for Gedit 3.36.2
+# Adorn : A Gedit Plugin which refactors python code using black code formatter 
 
 
 ### Requirements
