@@ -9,8 +9,8 @@
 ![Adorn Demo](Adorn.gif)
 
 ### General Info
-Tested for root user only so A permission error may arise if used by another user.
-For now run gedit with sudo only ``sudo gedit filename``
+ * Tested for root user only so A permission error may arise if used by another user.
+ * For now run gedit with sudo only ``sudo gedit filename``
 
 
 ### Install
