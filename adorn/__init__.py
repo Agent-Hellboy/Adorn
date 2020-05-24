@@ -75,7 +75,7 @@ class AdornWindowActivatable(GObject.Object, Gedit.WindowActivatable, PeasGtk.Co
         self.window.add_action(action)
 
     def action_cb(self, action, data):
-        # On action clear the document.
+        # On action get the document apply black code formatter and set new text to the document.
         doc = self.window.get_active_document()
         start, end = doc.get_bounds()
         data = start.get_slice(end)
