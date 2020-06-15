@@ -1,5 +1,5 @@
 # Adorn : 
-        A one click support of black code formatter for IDEs
+        A one click support of black code formatter for IDEs and text editors.
 
 
 ### Requirements
