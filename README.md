@@ -23,7 +23,7 @@
         
 
 ### General Info
- * currently there is support for gedit and sublim only
+ * currently there is support for gedit and sublime text only
  * Tested for root user only so A permission error may arise if used by another user(And these are visible only  though console).
  * For now run gedit or sublim with sudo only ``sudo gedit filename``
  
