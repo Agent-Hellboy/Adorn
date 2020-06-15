@@ -1,6 +1,6 @@
-# Adorn : 
 
-       ![Adorn](Adorn.gif)
+
+  ![Adorn](Adorn.gif)
 
         A one click support of black code formatter for IDEs and text editors.
 
@@ -15,11 +15,11 @@
 
 * Gedit Demo
 
-       ![gedit Demo](gedit/gedit.gif)
+     ![gedit Demo](gedit/gedit.gif)
 
 * Sublime Demo
        
-       ![sublime Demo](sublime/sublime.gif)
+     ![sublime Demo](sublime/sublime.gif)
         
 
 ### General Info
