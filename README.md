@@ -3,20 +3,33 @@
 
 
 ### Requirements
-* [Gedit](https://wiki.gnome.org/Apps/Gedit)
+
+* You have any of the following text editor
+   * [Gedit](https://wiki.gnome.org/Apps/Gedit)
+   * Sublime Text 3
 
 ### Demo
 
+* Gedit Demo
 ![Adorn Demo](Adorn.gif)
 
-### General Info
- * currently there is support for gedit only
- * Tested for root user only so A permission error may arise if used by another user.
- * For now run gedit with sudo only ``sudo gedit filename``
+* Sublime Demo
+    comming soon 
 
+### General Info
+ * currently there is support for gedit and sublim only
+ * Tested for root user only so A permission error may arise if used by another user(And these are visible only  though console).
+ * For now run gedit or sublim with sudo only ``sudo gedit filename``
+ 
+###Using
+Sublim Text 3
+ * steps
+   * select the snippet you want to format 
+   * Right click on the window and then click on Adorn 
 
 ### Install
 * Install with script
+  * find install.sh file inside the folder gedit/sublime 
   * Open terminal and execute `sudo ./install.sh`
   
 * Manual Install
