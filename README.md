@@ -34,13 +34,10 @@ Sublim Text 3
    * Right click on the window and then click on Adorn 
 
 ### Install
-* Install with script
-  * find install.sh file inside the folder gedit/sublime 
-  * Open terminal and execute `sudo ./install.sh`
+
+* find install.sh file inside the folder gedit/sublime 
+* Open terminal and execute `sudo ./install.sh`
   
-* Manual Install
-  * Copy all contents of **folder that matches your gedit version** to path `~/.local/share/gedit/plugins/`
-  * Install **python3** and **pip3** by `sudo apt-get install python3-all-dev python3-pip`
-  * Install **black** by `sudo pip3 install black`
+
 
 
