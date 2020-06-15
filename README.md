@@ -4,7 +4,7 @@
 
 ### Requirements
 
-* You have any of the following text editor
+* You must have any of the following text editor
    * [Gedit](https://wiki.gnome.org/Apps/Gedit)
    * Sublime Text 3
 
@@ -24,7 +24,7 @@
 ###Using
 Sublim Text 3
  * steps
-   * select the snippet you want to format 
+   * Select the snippet you want to format 
    * Right click on the window and then click on Adorn 
 
 ### Install
