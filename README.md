@@ -15,11 +15,12 @@
 
 * Gedit Demo
 
-       ![Adorn Demo](gedit/gedit.gif)
+       ![gedit Demo](gedit/gedit.gif)
 
 * Sublime Demo
-    
-        comming soon 
+       
+       ![sublime Demo](sublime/sublime.gif)
+        
 
 ### General Info
  * currently there is support for gedit and sublim only
