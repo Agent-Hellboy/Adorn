@@ -1,4 +1,5 @@
-# Adorn : A Gedit Plugin which refactors python code using black code formatter 
+# Adorn : 
+        A one click support of black code formatter for IDEs
 
 
 ### Requirements
@@ -9,6 +10,7 @@
 ![Adorn Demo](Adorn.gif)
 
 ### General Info
+ * currently there is support for gedit only
  * Tested for root user only so A permission error may arise if used by another user.
  * For now run gedit with sudo only ``sudo gedit filename``
 
