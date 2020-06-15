@@ -21,7 +21,7 @@
  * Tested for root user only so A permission error may arise if used by another user(And these are visible only  though console).
  * For now run gedit or sublim with sudo only ``sudo gedit filename``
  
-###Using
+### Using
 Sublim Text 3
  * steps
    * Select the snippet you want to format 
