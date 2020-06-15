@@ -1,4 +1,7 @@
 # Adorn : 
+
+       ![Adorn](Adorn.gif)
+
         A one click support of black code formatter for IDEs and text editors.
 
 
@@ -11,10 +14,12 @@
 ### Demo
 
 * Gedit Demo
-![Adorn Demo](Adorn.gif)
+
+       ![Adorn Demo](gedit/gedit.gif)
 
 * Sublime Demo
-    comming soon 
+    
+        comming soon 
 
 ### General Info
  * currently there is support for gedit and sublim only
